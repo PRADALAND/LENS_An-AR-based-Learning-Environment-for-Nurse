@@ -1,0 +1,8 @@
+{
+  "name": " LENS (Learning Environment for Nurse-Led Shared Decision Making)",
+  "description": "AR-based Shared Decision Making training simulator for oncology nurses.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
